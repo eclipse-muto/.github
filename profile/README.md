@@ -33,16 +33,16 @@ It is Extensible; Muto is built on an extensible architecture. Similar to plugin
 
 
 ### 🚀 Getting Started
-- **[🐳 Quick Start](https://github.com/eclipse-muto/muto/docs/user_guide/quick_start.md)** - Fast deployment with pre-built images (recommended)
-- **[🔧 Source Build Quick Start](https://github.com/eclipse-muto/muto/docs/developer_guide/building_from_source.md)** - Build from source for maximum flexibility, including setup for  Containerized development environment
+- **[🐳 Quick Start](https://github.com/eclipse-muto/muto/tree/main/docs/user_guide/quick_start.md)** - Fast deployment with pre-built images (recommended)
+- **[🔧 Source Build Quick Start](https://github.com/eclipse-muto/muto/tree/main/docs/developer_guide/building_from_source.md)** - Build from source for maximum flexibility, including setup for  Containerized development environment
 
 ### 📚 Documentation
-- **[📖 User Guide](https://github.com/eclipse-muto/muto/docs/user_guide/readme.md)** - User documentation on how to configure and run Muto
-- **[🔧 Developer Guide](https://github.com/eclipse-muto/muto/docs/developer_guide/readme.md)** - Development and contribution guide
-- **[📚 Reference Documentation](https://github.com/eclipse-muto/muto/docs/reference/readme.md)** - Technical reference for all components
+- **[📖 User Guide](https://github.com/eclipse-muto/muto/tree/main/docs/user_guide/readme.md)** - User documentation on how to configure and run Muto
+- **[🔧 Developer Guide](https://github.com/eclipse-muto/muto/tree/main/docs/developer_guide/readme.md)** - Development and contribution guide
+- **[📚 Reference Documentation](https://github.com/eclipse-muto/muto/tree/main/docs/reference/readme.md)** - Technical reference for all components
 
 ### 📝 Examples
-- **[🎯 Examples Overview](https://github.com/eclipse-muto/muto/docs/examples/readme.md)** - Muto examples and demonstration tutorials
+- **[🎯 Examples Overview](https://github.com/eclipse-muto/muto/tree/main/docs/examples/readme.md)** - Muto examples and demonstration tutorials
 
 ## Target Use Cases
 
@@ -58,7 +58,7 @@ Eclipse Muto is licensed under the [Eclipse Public License 2.0](LICENSE).
 
 ## Contributing
 
-We welcome contributions to Eclipse Muto! Please see our [Developer Guide](https://github.com/eclipse-muto/muto/docs/developer_guide/readme.md) for detailed information on how to contribute, including:
+We welcome contributions to Eclipse Muto! Please see our [Developer Guide](https://github.com/eclipse-muto/muto/tree/main/docs/developer_guide/readme.md) for detailed information on how to contribute, including:
 
 ## Community
 
